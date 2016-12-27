@@ -1,5 +1,5 @@
 *.txt
 *.zip
 /work
-/.chache
+/.cache
 /__pycache__
